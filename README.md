@@ -1,4 +1,5 @@
-# 📦 Module 6 Demo Project: Run Nexus on DigitalOcean & Publish Java Artifacts
+# 📦 Module 6 Demo Project
+# Run Nexus on DigitalOcean & Publish Java Artifacts
 
 ## 🛠️ Technologies Used
 - **Nexus Repository Manager** – Artifact repository for Java builds.
