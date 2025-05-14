@@ -1,4 +1,4 @@
-# 📦 Module 6 Demo Project
+# 📦 Module 6 Demo Project:
 # Run Nexus on DigitalOcean & Publish Java Artifacts
 
 ## 🛠️ Technologies Used
